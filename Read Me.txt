@@ -1,0 +1,13 @@
+﻿FPV PROFILER – INSTALLATION
+
+Extract the entire ZIP file, then run Install.cmd.
+Open FPV Profiler from your desktop or Start menu.
+Your saved profiles are stored in your Windows user account.
+
+Click Read Drone to read current rates, or Edit Selected Profile to edit
+library values. Choose Betaflight Rates or Actual Rates above the table.
+Review and Write Edited Rates backs up and writes your edited settings,
+then checks the values after restart.
+
+Custom profile names keep the names you entered.
+Windows system dialogs follow your Windows display language.
